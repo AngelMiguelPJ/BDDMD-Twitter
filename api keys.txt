@@ -1,0 +1,43 @@
+Consumer_Key = "lUoRijvESyV0YtnxgkyfNaGDy"
+Consumer_Secret = "dIc3fcJ8qYcV7wfIDN58IxmmjTKzIWWONfffxLESFpF9nKFTYn"
+Access_Token = "115946548-Li5UYIG0FjqxeFodjKFfWVBhqIYn3c8kRBWAVx7I"
+Access_Token_Secret = "BnVWGORJjNQOlCMcu6al5O3QvR0yKmOGRsY3b7p41jIOp"
+
+Consumer_Key = "b0hhIO0RfXbsgPjjBSlcAOEkB"
+Consumer_Secret = "3825kTPBIf0CkktKEZ1Q5aMjJe9HqMq8RD9P3sX0Tz1gf0p0dd"
+Access_Token = "1268502774-9G1na0czUOXCbiac8hs3S31c976JHExouRJGm5c"
+Access_Token_Secret = "	PAhtCrPxacjS2AmTyIOCSKmGfPQzuF9jll07n2bT7ptgr"	
+
+Consumer_Key = "unksC6a2wXM5JoZ5cFwqxD8F6"
+Consumer_Secret = "EJiqOoTUSQIPNLQpTgJnDFk6IJsjpt7EzeD7sgBGOGl43HCWm0"
+Access_Token = "999027538243588098-gAoMQKa1Na0YSvHB3g5Q9558jXCMSgQ"
+Access_Token_Secret = "UcQU3N0SibSMRHbekjYjG1eBjuwaqPJpnKYMfspiQZ6jN"
+
+Consumer_Key = "m4Fq2Pr4yHn1YLLg6nmPYxXYz"
+Consumer_Secret = "0WC0ZlD9sT4aMiBY5xDrRjFIQqT3KbU8oSaNEsFEkKPHZCASe4"
+Access_Token = "999027411613356032-NvGF9YveYjVjQq4sf61x5IbFDe0KBej"
+Access_Token_Secret = "ZHTEn2rxBoKLIkFa57Ksm3Hs4jYtwimhgYcsq8TtAXVXv"
+-------
+Consumer API keys
+h7IlWWyqkMZ9k1awjNY6lPxSW (API key)
+
+mnrmIT8fBVFV4Z8GToGjhqq5K4BFJGDou0D3qOpMDSlagEb5qC (API secret key)
+
+Access token & access token secret
+115946548-e4TD3Wpdbz63CzqEsp3MJS9KbuDzNhpmCxiUOOf2 (Access token)NEW
+
+cxYJFcEmf4xoEKRGvCsygfYqRQ9IQUNgtFkHGRru96aox (Access token secret)NEW
+
+
+--------
+Consumer API keys
+k8V0BmOht1p2ERnpVilBwCLIs (API key)
+
+2IvDZSvsOmmhQK93AvC1vqsU5WeCcRcDU2cDanLI5UuGgFw7PW (API secret key)
+
+Access token & access token secret
+115946548-COOBTHYUFkcpNW12mYTt4uXH04E3XCG4VO7gM2QL (Access token)NEW
+
+edl0UJYSOyLIZdy5x20i9q5ptffUYJdbf8jihXq0nb58Q (Access token secret)NEW
+
+Read and write (Access level)
